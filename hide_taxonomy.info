@@ -4,3 +4,4 @@ name = Hide taxonomy
 description = "Remove display of a taxonomy"
 core = 6.x
 
+version = 6.x-1.0
