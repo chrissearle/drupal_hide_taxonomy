@@ -1,0 +1,6 @@
+; $Id$
+
+name = Hide taxonomy
+description = "Remove display of a taxonomy"
+core = 6.x
+
